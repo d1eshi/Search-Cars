@@ -1,4 +1,4 @@
-# Buscador de Autos
+# Search Cars
 
 Hi, this is a project realized in course [JavaScript Moderno Guía Definitiva Construye +15 Proyectos](https://www.udemy.com/course/javascript-moderno-guia-definitiva-construye-10-proyectos/). The objective of the project is to **filter and display** **cars** by _brand_, _year_, _minimum_ _price_, etc.
 
